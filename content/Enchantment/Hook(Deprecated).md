@@ -1,3 +1,6 @@
+# **<span style="color: red;">Deprecated</span>**
+**This enchantment will be divided into 2 enchantment type OR it will be greatly nerfed.**
+
 ### **Description:**
 
 The Hook (Phantom Snag) Enchantment allows the user to pull a target towards them upon hitting, granting Speed to the user and inflicting blindness on the target. The duration of Speed and blindness, as well as the pull strength, increase with the enchantment's level.

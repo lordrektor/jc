@@ -1,8 +1,8 @@
-**Description:**
+### **Description:**
 
 The Explosion Enchantment allows the user to release a homing fireball upon usage, which targets and damages enemies. On impact, the fireball chains to nearby enemies, dealing additional damage. The range, damage, and cooldown of the fireball scale with the enchantment level, providing increased effectiveness with higher levels.
 
-**Key Features:**
+### **Key Features:**
 
 1. **Homing Fireball:**
     
@@ -23,30 +23,38 @@ The Explosion Enchantment allows the user to release a homing fireball upon usag
     
     - The enchantment can be activated by right-clicking while holding an item in the main hand. It can be equipped on both hands, but the higher-level enchantment will take priority. Cooldown is shared across all items with the same enchantment on each player.
 
-**Matrix:**
+### **Matrix:**
 
 _Values may change in the future without further notice_.
 
 | Level | Damage | Cooldown (ms) | Chain Range | Initial Target Range |
 | ----- | ------ | ------------- | ----------- | -------------------- |
-| 1     | 14.0   | 42000         | 3           | 10                   |
-| 2     | 14.8   | 42000         | 4           | 12                   |
-| 3     | 15.6   | 42000         | 5           | 14                   |
-| 4     | 16.4   | 42000         | 6           | 16                   |
-| 5     | 17.0   | 42000         | 7           | 18                   |
-| 6     | 17.5   | 42000         | 8           | 20                   |
-| 7     | 18.0   | 42000         | 9           | 22                   |
-| 8     | 18.5   | 42000         | 10          | 24                   |
-| 9     | 19.0   | 38000         | 10          | 26                   |
-| 10    | 19.5   | 33000         | 10          | 28                   |
-| 11+   | 20.0   | 27000         | 10          | 30                   |
+| 1     | 14.0   | 32000         | 3           | 10                   |
+| 2     | 14.8   | 31000         | 3           | 10                   |
+| 3     | 15.6   | 30000         | 3           | 11                   |
+| 4     | 16.4   | 29000         | 4           | 11                   |
+| 5     | 17.0   | 28000         | 4           | 12                   |
+| 6     | 17.5   | 27000         | 4           | 12                   |
+| 7     | 18.0   | 26000         | 5           | 13                   |
+| 8     | 18.5   | 25000         | 5           | 13                   |
+| 9     | 19.0   | 25000         | 5           | 14                   |
+| 10    | 19.5   | 25000         | 6           | 14                   |
+| 11+   | 20.0   | 25000         | 6           | 15                   |
 
-**Usage Instructions:**
+### **Usage Instructions:**
 
 - Equip the Explosion Enchantment on the main hand to unleash a homing fireball on enemies.
 - Manage cooldowns and enchantment levels to maximize damage and chaining potential.
 - Utilize the enchantment strategically to take advantage of the homing fireball and chaining damage to control large groups of enemies.
 
-**Note:**
+### **Note:**
 
 - The Explosion Enchantment's chain damage radius and initial target range are scaled based on the enchantment level. The cooldown period decreases with higher levels, and the enchantment can be activated by right-clicking while holding any item in the main hand. Cooldown is shared across all items with the same enchantment per player.
+
+
+## Development Logs
+---
+09/08/2024
+- (Buff)Decrease cooldown on each level.
+- (Nerf)Reduce the chain range on all levels.
+- (Nerf)Reduce the initial target range on all levels.

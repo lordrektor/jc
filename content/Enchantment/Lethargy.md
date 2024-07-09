@@ -1,8 +1,8 @@
-#### **Description:**
+### **Description:**
 
 The Lethargy Enchantment applies a slow effect to attackers upon striking the wearer, strategically hindering their movement. The duration and intensity of the slow effect increase with the enchantment's level, offering varying levels of tactical advantage in combat.
 
-#### **Key Features:**
+### **Key Features:**
 
 1. **Slow Effect on Hit:**
     
@@ -14,7 +14,7 @@ The Lethargy Enchantment applies a slow effect to attackers upon striking the we
     
     - Equipping multiple armor pieces with the Lethargy Enchantment combines their levels, enhancing the slow effect inflicted on attackers. This cumulative enhancement strengthens defensive capabilities against successive strikes.
 
-#### **Matrix:**
+### **Matrix:**
 
 _Values may change in the future without further notice_.
 
@@ -51,11 +51,11 @@ _Values may change in the future without further notice_.
 | 29    | 200           | 1                | 315                   |
 | 30+   | 100           | 1                | 324                   |
 
-#### **Usage Instructions:**
+### **Usage Instructions:**
 
 - Activate the Lethargy Enchantment to exploit its strategic advantage by slowing down attackers during combat engagements.
 - Coordinate defenses to maximize the impact of the slow effect, considering the shared cooldown among all equipped armor pieces with this enchantment.
 
-#### **Note:**
+### **Note:**
 
 The Lethargy Enchantment provides a tactical advantage by applying a hindering slow effect to attackers upon impact. Strategically manage enchantment levels to optimize defensive strategies and maintain control in combat scenarios.

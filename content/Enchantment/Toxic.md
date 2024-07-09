@@ -1,8 +1,8 @@
-#### **Description:**
+### **Description:**
 
 The **Toxic Enchantment** applies a poison effect to the target upon striking, strategically inflicting damage over time. The duration and intensity of the poison effect increase with the enchantment's level, providing varying degrees of tactical advantage in combat.
 
-##### **Key Features:**
+### **Key Features:**
 
 1. **Poison Effect on Hit:**
     - When attacking, the Toxic Enchantment inflicts a poison effect on the target, causing continuous damage. The duration and strength of this effect escalate with higher enchantment levels, effectively weakening opponents during engagements.
@@ -11,12 +11,12 @@ The **Toxic Enchantment** applies a poison effect to the target upon striking, s
 3. **Enchantment Level Priority:**
     - When using the Toxic Enchantment on both hands, the higher enchantment level is prioritized, determining the strength and duration of the poison effect. This ensures that the most potent enchantment is always in effect.
 
-#### **Usage Instructions:**
+### **Usage Instructions:**
 
 - Equip the Toxic Enchantment on your weapon to inflict a poison effect on targets during combat engagements.
 - Coordinate attacks to maximize the impact of the poison effect, considering the shared cooldown between the main hand and off hand equipped with this enchantment.
 
-#### **Matrix:**
+### **Matrix:**
 
 |Level|Cooldown (ms)|Duration (ticks)|Charge (Effect Amplifier)|
 |---|---|---|---|
@@ -32,6 +32,6 @@ The **Toxic Enchantment** applies a poison effect to the target upon striking, s
 |10|1200|156|1|
 |11+|1100|168|1|
 
-#### **Note:**
+### **Note:**
 
 The Toxic Enchantment provides a tactical edge by applying a persistent poison effect to targets upon impact. Strategically manage enchantment levels to optimize offensive strategies and maintain control in battles.

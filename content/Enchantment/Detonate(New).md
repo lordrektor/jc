@@ -1,8 +1,8 @@
-#### **Description:**
+### **Description:**
 
 The Detonate Enchantment is a special enhancement for bows and crossbows, creating explosive destruction similar to TNT upon arrow impact. The power of the explosion increases with the enchantment's level, providing a significant offensive advantage.
 
-#### **Key Features:**
+### **Key Features:**
 
 1. **Explosive Impact:**
     
@@ -14,11 +14,11 @@ The Detonate Enchantment is a special enhancement for bows and crossbows, creati
     
     - The Detonate Enchantment's explosive effect is exclusively activated when the enchanted bow or crossbow is used in the main hand. This ensures precise control over when the explosive ability is deployed.
 
-#### **Usage Instructions:**
+### **Usage Instructions:**
 
 - Equip the Detonate Enchantment on your main hand bow or crossbow to unleash explosive power during combat.
 - Coordinate attacks to maximize the impact of the explosive effect on groups of enemies or strategic points.
-#### **Matrix:**
+### **Matrix:**
 
 _Values may change in the future without further notice_.
 
@@ -36,6 +36,6 @@ _Values may change in the future without further notice_.
 | 10                | 4            | 23.0             | 2100             |
 | 11+               | 4            | 25.0             | 2000             |
 
-#### **Note:**
+### **Note:**
 
 The Detonate Enchantment offers a powerful offensive tool by creating TNT-like explosions on arrow impact. Manage enchantment levels strategically to optimize destructive capabilities and maintain control in battles.

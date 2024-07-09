@@ -43,3 +43,4 @@ _Values may change in the future without further notice_.
 ### **Note:**
 
 - Ricochet Enchantment enhances combat efficiency by allowing tridents to bounce between nearby targets within a fixed radius of 10 blocks, providing strategic advantages in engagements.
+

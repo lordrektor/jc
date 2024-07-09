@@ -1,7 +1,7 @@
-#### **Description:**
+### **Description:**
 The Immunity Enchantment is a passive protective enchantment exclusive to armor equipment, designed to automatically nullify any negative potion effects applied to the wearer upon activation. This enchantment provides crucial defense against harmful effects, enhancing survivability in challenging encounters.
 
-#### **Key Features:**
+### **Key Features:**
 
 1. **Potion Immunity:**
 	- When the wearer is affected by a negative potion effect, the Immunity Enchantment automatically and instantly removes the effect without requiring any action from the user. This includes effects such as poison, weakness, and other harmful debuffs.
@@ -10,12 +10,12 @@ The Immunity Enchantment is a passive protective enchantment exclusive to armor 
 3. **Enchantment Level Summation:**
 	- Equipping multiple armor pieces with the Immunity Enchantment allows the enchantment levels from each piece to be summed together. This cumulative level enhances the potency and effectiveness of the immunity effect, providing greater protection against negative potions.
 
-#### **Usage Instructions:**
+### **Usage Instructions:**
 
 - Upon application, the Immunity Enchantment passively removes negative potion effects from the wearer, ensuring continuous protection during combat.
 - Coordinate usage to maximize the cumulative effect of the enchantment's level across all equipped armor pieces.
 
-#### **Matrix:**
+### **Matrix:**
  _Values may change in the future without further notice_.
 
 | Level | Cooldown(ms) |
@@ -49,5 +49,5 @@ The Immunity Enchantment is a passive protective enchantment exclusive to armor 
 | 27    |      2000       |
 | 28    |      1000       |
 | 29+   |      0       |
-#### **Note:**
+### **Note:**
 The Immunity Enchantment enhances survivability by automatically providing protection against harmful potion effects, ensuring wearers can maintain combat effectiveness in adverse conditions.

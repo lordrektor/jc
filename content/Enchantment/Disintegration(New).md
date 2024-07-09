@@ -1,8 +1,8 @@
-#### **Description:**
+### **Description:**
 
 The **Disintegration Enchantment** inflicts a wither effect on attackers when they strike the wearer, imparting a potent offensive deterrent. The duration and strength of the wither effect increase with the enchantment's level, providing escalating levels of protection against assailants.
 
-##### **Key Features:**
+### **Key Features:**
 
 1. **Wither Effect on Hit:**
     - Upon being struck, the Disintegration Enchantment applies a wither effect to the attacker. The duration and intensity of the wither effect amplify with higher enchantment levels, effectively weakening adversaries during combat.
@@ -11,7 +11,7 @@ The **Disintegration Enchantment** inflicts a wither effect on attackers when th
 3. **Enchantment Level Summation:**
     - Equipping multiple armor pieces with the Disintegration Enchantment aggregates their levels, intensifying the wither effect inflicted on attackers. This cumulative enhancement enhances defensive capabilities against successive strikes.
 
-#### **Matrix:**
+### **Matrix:**
 
 _Values may change in the future without further notice_.
 
@@ -48,11 +48,11 @@ _Values may change in the future without further notice_.
 |29|200|276|1|
 |30+|100|288|1|
 
-#### **Usage Instructions:**
+### **Usage Instructions:**
 
 - Activate the Disintegration Enchantment to leverage its offensive capabilities against attackers.
 - Coordinate engagements to maximize the wither effect's impact, considering the shared cooldown across all equipped armor pieces with this enchantment.
 
-#### **Note:**
+### **Note:**
 
 - The Disintegration Enchantment offers a potent offensive advantage by applying a formidable wither effect to attackers upon impact. Utilize varying enchantment levels strategically to optimize defensive tactics and maintain superiority in combat.

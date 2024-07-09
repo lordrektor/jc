@@ -1,8 +1,8 @@
-#### **Description:**
+### **Description:**
 
 The Caustic Enchantment inflicts a poison effect on attackers when they strike the wearer, providing a defensive advantage by weakening assailants over time. The duration and potency of the poison effect increase with the enchantment's level, offering varying degrees of protection against adversaries.
 
-#### **Key Features:**
+### **Key Features:**
 
 1. **Poison Effect on Hit:**
     
@@ -14,7 +14,7 @@ The Caustic Enchantment inflicts a poison effect on attackers when they strike t
     
     - Equipping multiple armor pieces with the Caustic Enchantment combines their levels, intensifying the poison effect inflicted on attackers. This cumulative effect enhances defensive capabilities against successive strikes.
 
-#### **Matrix:**
+### **Matrix:**
 
 _Values may change in the future without further notice_.
 
@@ -51,11 +51,11 @@ _Values may change in the future without further notice_.
 |29|200|1|315|
 |30+|100|1|324|
 
-#### **Usage Instructions:**
+### **Usage Instructions:**
 
 - Equip armor pieces with the Caustic Enchantment to apply a poison effect to attackers upon being struck.
 - Maximize the defensive advantage by managing cooldown periods and utilizing multiple enchanted armor pieces for enhanced poison effect duration and potency.
 
-#### **Note:**
+### **Note:**
 
 The Caustic Enchantment offers a defensive advantage by weakening attackers with a potent poison effect upon impact. Use this enchantment strategically to enhance defensive capabilities and maintain control in battles.

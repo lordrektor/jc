@@ -1,8 +1,8 @@
-**Description:**
+### **Description:**
 
 The Green Thumb Enchantment offers a chance to replant a crop automatically upon breaking it, streamlining farming operations. The probability of replanting increases with the enchantment's level, making it highly efficient for players focused on agriculture.
 
-**Key Features:**
+### **Key Features:**
 
 1. **Automatic Replanting:**
     
@@ -17,7 +17,7 @@ The Green Thumb Enchantment offers a chance to replant a crop automatically upon
     
     - The enchantment does not have a cooldown period, allowing for continuous usage.
 
-**Matrix:**
+### **Matrix:**
 
 _Values may change in the future without further notice_.
 
@@ -30,11 +30,11 @@ _Values may change in the future without further notice_.
 | 5     | 98.0                     |
 | 6+    | 100                      |
 
-**Usage Instructions:**
+### **Usage Instructions:**
 
 - Equip the Green Thumb Enchantment on the main hand to benefit from its automatic replanting feature.
 - Focus on breaking fully grown crops to maximize efficiency and take advantage of the replanting chance.
 
-**Note:**
+### **Note:**
 
 - The chance of replanting the same crop increases with the enchantment level, making it more effective for higher levels. The enchantment works with Wheat, Carrots, Potatoes, Beetroots, and Nether Wart, ensuring a wide range of applicability for farming operations.
